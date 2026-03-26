@@ -90,3 +90,14 @@ The goal of this project is to demonstrate:
 * KPI development
 * Interactive dashboard design
 * Business-focused insights using Power BI
+
+---
+
+## 👤 Author
+**Ps-analyticshub**  
+Data Analyst | Power BI | Data Visualization  
+
+---
+
+⭐ If you found this project useful, please consider starring the repository!
+
